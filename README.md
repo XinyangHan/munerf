@@ -3,13 +3,14 @@
 We present **MuNeRF**, a unified framework for Robust **M**ake**u**p Transfer in **Ne**ural **R**adiance **F**ields that is able to transfer makeup styles (left column) to facial images of different poses and expressions while preserving the geometry and appearance consistency.
 <p align="center"> <img src='docs/teaser_img.png' align="center" > </p>
 
-> [**Robust Makeup Transfer in Neural Radiance Fields**](https://munerf.github.io/)\
-> [Yujie Yuan\*](http://people.geometrylearning.com/yyj/)<sup>1,2,3</sup>, [Xinyang Han\*](https://github.com/XinyangHan)<sup>3</sup>, [Yue He](https://scholar.google.com/citations?hl=en&user=Iq4fyBAAAAAJ)<sup>1,2,3</sup>, [Fanglue Zhang](https://people.wgtn.ac.nz/fanglue.zhang)<sup>4</sup>, [Lin Gao](https://geometrylearning.com/lin/)<sup>1,2,3</sup>\
-> <sup>1</sup>Beijing Key Laboratory of Mobile Computing and Pervasive Device, <sup>2</sup>Institute of Computing Technology, Chinese Academy of Sciences, <sup>3</sup>University of Chinese Academy of Sciences, <br><sup>4</sup>Victoria University of Wellington, New Zealand\
+> [**Robust Makeup Transfer in Neural Radiance Fields**](https://geometrylearning.com/MuNeRF/)\
+> [Yujie Yuan\*](http://people.geometrylearning.com/yyj/)<sup>1,2</sup>, [Xinyang Han\*](https://github.com/XinyangHan)<sup>2</sup>, [Yue He](https://scholar.google.com/citations?hl=en&user=Iq4fyBAAAAAJ)<sup>1,2</sup>, [Fanglue Zhang](https://people.wgtn.ac.nz/fanglue.zhang)<sup>3</sup>, [Lin Gao](https://geometrylearning.com/lin/)<sup>1,2</sup><sup>†</sup>\
+> <sup>1</sup>Beijing Key Laboratory of Mobile Computing and Pervasive Device, Institute of Computing Technology, Chinese Academy of Sciences, <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Victoria University of Wellington, New Zealand\
+> \*Authors contributed equally †Corresponding author\
 > TVCG
 
 
-[project page](https://munerf.github.io/) | [paper](https://geometrylearning.com/MuNeRF/static/MuNeRF_TVCG.pdf) | [bibtex](#citation)
+[project page](https://geometrylearning.com/MuNeRF/) | [paper](https://geometrylearning.com/MuNeRF/static/MuNeRF_TVCG.pdf) | [bibtex](#citation)
 
 Code Coming Soon!
 
