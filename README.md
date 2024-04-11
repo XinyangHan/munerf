@@ -5,7 +5,7 @@ We present **MuNeRF**, a unified framework for Robust **M**ake**u**p Transfer in
 
 > [**Robust Makeup Transfer in Neural Radiance Fields**](https://geometrylearning.com/MuNeRF/)\
 > [Yujie Yuan\*](http://people.geometrylearning.com/yyj/)<sup>1,2</sup>, [Xinyang Han\*](https://github.com/XinyangHan)<sup>2</sup>, [Yue He](https://scholar.google.com/citations?hl=en&user=Iq4fyBAAAAAJ)<sup>1,2</sup>, [Fanglue Zhang](https://people.wgtn.ac.nz/fanglue.zhang)<sup>3</sup>, [Lin Gao](https://geometrylearning.com/lin/)<sup>1,2</sup><sup>†</sup>\
-> <sup>1</sup>Beijing Key Laboratory of Mobile Computing and Pervasive Device, Institute of Computing Technology, Chinese Academy of Sciences, <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Victoria University of Wellington, New Zealand\
+> <sup>1</sup>Beijing Key Laboratory of Mobile Computing and Pervasive Device, Institute of Computing Technology, Chinese Academy of Sciences,<br><sup>2</sup>University of Chinese Academy of Sciences, <br><sup>3</sup>Victoria University of Wellington, New Zealand\
 > \*Authors contributed equally †Corresponding author\
 > TVCG
 
